@@ -78,3 +78,9 @@ This project demonstrates end-to-end PySpark transformations and analytics using
 ## Outcome
 
 Completed 75 PySpark and Databricks practice questions covering Data Engineering concepts from beginner to intermediate level.
+
+## Complete Assignment
+
+The complete implementation and outputs are available in:
+
+📄 PySpark_Assignment.pdf
